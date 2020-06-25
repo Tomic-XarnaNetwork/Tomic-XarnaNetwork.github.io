@@ -9,3 +9,5 @@ Sonic ist ein blauer Igel, der die Fähigkeit besitzt, mit Überschallgeschwindi
 * witzig
 
 > There must be a switch somewhere on the bridge Sonic in Sonic Adventure.
+
+<img src="https://www.film.tv/upload/bilder/filmshot_klein/2020/sonic-rennt-thumb-960-retina.jpg"/>
