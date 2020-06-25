@@ -7,3 +7,5 @@ Sonic ist ein blauer Igel, der die Fähigkeit besitzt, mit Überschallgeschwindi
 * schnell
 * blau
 * witzig
+
+> There must be a switch somewhere on the bridge Sonic in Sonic Adventure.
